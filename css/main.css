@@ -1,0 +1,83 @@
+header {
+    padding: 15px;
+    background-color: black;
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    word-spacing: 60px;
+}
+
+nav li {
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.logo {
+    width: 20px;
+}
+.search{
+    width: 15px;
+}
+.bag {
+    width: 15px;
+}
+.iphone {
+    width: 100%;
+    object-fit: fill;
+    height: 500px;
+    float: right;
+}
+.madebyapple {
+    width: 25%;
+    height: 165px;
+}
+.ipad {
+    width: 25%;
+    height: 165px;
+}
+.airpods {
+    width: 25%;
+    height:165px;
+}
+.appletv {
+    width: 23.5%;
+    height: 165px;
+}
+div li {
+    color: gray;
+    text-decoration: none;
+    padding: auto;
+    line-height: 20px;
+    font-size:12px;
+    text-indent: 15%;
+    padding:0 0 0 15px;
+
+
+
+}
+h1, h2, h3, h4, h5, h6 {
+    padding: 10%;
+    font-size: 12px;
+    text-indent: 15%;
+    color: dark gray;
+
+}
+.ul, li{
+margin:0;
+list-style: none; 
+
+}
+
+.column{
+    float: left;
+    margin: 0 20px 0 0;
+}
